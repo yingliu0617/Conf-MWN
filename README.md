@@ -6,5 +6,3 @@
 |------------|----------|----------|
 | Method A   | 0.85     | 0.82     |
 | Method B   | 0.88     | 0.86     |
-
-[Download Full Results Table](https://github.com/yingliu0617/Conf-MWN/raw/main/cifar10n_worst_m.pdf)
