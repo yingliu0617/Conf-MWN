@@ -24,7 +24,7 @@
 | **CovGap (APS)** |   0.005 / 0.005  |  0.005 /   |  
 
 
-**Table 3:** The performance metrics of Conf-MWN with different number of calibration data on CIFAR-10N datasets (worst).
+**Table 3:** The performance metrics of Conf-MWN with different n_cal on CIFAR-10N datasets (worst).
 
 | n_cal |5000 | 3000 | 1000 | 500 |
 |------------|----------|----------|----------|----------|
