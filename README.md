@@ -15,7 +15,7 @@
 |------------------|---------------------|---------------------|
 | **SSCV (HPS)**   |   0.008 / 0.005  |  0.021 / 0.004 |    
 | **CovGap (HPS)** |   0.003 / 0.004   |  0.004 /  0.005 |     
-| **SSCV (APS)**   |   0.022 / 0.013   |  0018 / 0.014  | 
+| **SSCV (APS)**   |   0.022 / 0.013   |  0.018 / 0.014  | 
 | **CovGap (APS)** |   0.005 / 0.005  |  0.005 / 0.004  |  
 
 **Table 3:** The performance metrics of Conf-MWN with different number of calibration data on CIFAR-10N datasets (worst).
