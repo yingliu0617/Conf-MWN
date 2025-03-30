@@ -1,6 +1,6 @@
 # Conf-MWN
 
-<img src="https://github.com/yingliu0617/Conf-MWN/raw/main/cifar10n_m.png" width="50%">
+<img src="https://github.com/yingliu0617/Conf-MWN/raw/main/cifar10n_m.png" width="55%">
 
 <img src="https://github.com/yingliu0617/Conf-MWN/raw/main/test_example.png" width="60%">
 
