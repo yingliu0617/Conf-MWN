@@ -5,7 +5,7 @@
 <img src="https://github.com/yingliu0617/Conf-MWN/raw/main/test_example.png" width="60%">
 
 
-**Table 1:** Performance comparison of Method A and B.
+**Table 1:** The performance metrics of Conf-MWN with different temperature parameter T on CIFAR-10 datasets with Symmetric 20% label noise.
 
 | T | 0.01 | 0.1 | 0.5 | 1 | 5 | 10 |
 |------------|----------|----------|----------|----------|----------|----------|
@@ -14,7 +14,7 @@
 | Acc.(%)   | 90.34     | 90.16     | 90.27     | 90.37     | 90.20     | 89.69     |
 
 
-**Table 2:** Performance comparison of Method A and B.
+**Table 2:** Experimental results on conditional coverage with CE/Ours on CIFAR-10 datasets.
 
 | Noise Type       | Symmetric-20%       | Symmetric-40%       |
 |------------------|---------------------|---------------------|
@@ -24,7 +24,7 @@
 | **CovGap (APS)** |   0.005 / 0.005  |  0.005 /   |  
 
 
-**Table 3:** Performance comparison of Method A and B.
+**Table 3:** The performance metrics of Conf-MWN with different number of calibration data on CIFAR-10N datasets (worst).
 
 | n_cal |5000 | 3000 | 1000 | 500 |
 |------------|----------|----------|----------|----------|
