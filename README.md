@@ -8,8 +8,6 @@
 | Cov.(%)  | 98.91     | 98.95    | 98.98    | 98.78     | 99.09     | 98.89    |
 | Acc.(%)   | 90.34     | 90.16     | 90.27     | 90.37     | 90.20     | 89.69     |
 
-<img src="https://github.com/yingliu0617/Conf-MWN/raw/main/cifar10n_m.png" width="50%">
-
 
 **Table 2:** Experimental results on conditional coverage with CE/Ours on CIFAR-10 datasets.
 
@@ -19,8 +17,6 @@
 | **CovGap (HPS)** |   0.003 / 0.004   |  0.004 /   |     
 | **SSCV (APS)**   |   0.022 / 0.013   |  0018 /   | 
 | **CovGap (APS)** |   0.005 / 0.005  |  0.005 /   |  
-
-<img src="https://github.com/yingliu0617/Conf-MWN/raw/main/test_example.png" width="55%">
 
 **Table 3:** The performance metrics of Conf-MWN with different number of calibration data on CIFAR-10N datasets (worst).
 
