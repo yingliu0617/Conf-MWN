@@ -5,7 +5,7 @@
 <img src="https://github.com/yingliu0617/Conf-MWN/raw/main/test_example.png" width="60%">
 
 
-**Table 1:** The performance metrics of Conf-MWN with different temperature parameter T on CIFAR-10 datasets with Symmetric 20% label noise.
+**Table 1:** The performance metrics of Conf-MWN with different temperature parameter T on CIFAR-10 datasets (symmetric 20%).
 
 | T | 0.01 | 0.1 | 0.5 | 1 | 5 | 10 |
 |------------|----------|----------|----------|----------|----------|----------|
