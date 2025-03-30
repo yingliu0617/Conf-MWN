@@ -2,7 +2,7 @@
 
 <img src="https://github.com/yingliu0617/Conf-MWN/raw/main/cifar10n_m.png" width="50%">
 
-<img src="https://github.com/yingliu0617/Conf-MWN/raw/main/test_example.png" width="70%">
+<img src="https://github.com/yingliu0617/Conf-MWN/raw/main/test_example.png" width="60%">
 
 
 **Table 1:** Performance comparison of Method A and B.
