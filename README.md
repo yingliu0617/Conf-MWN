@@ -9,7 +9,6 @@
 | Acc.(%)   | 90.34     | 90.16     | 90.27     | 90.37     | 90.20     | 89.69     |
 
 <img src="https://github.com/yingliu0617/Conf-MWN/raw/main/cifar10n_m.png" width="50%">
-<img src="https://anonymous.4open.science/r/Conf-MWN/cifar10n_m.png" width="50%">
 
 
 **Table 2:** Experimental results on conditional coverage with CE/Ours on CIFAR-10 datasets.
