@@ -24,3 +24,8 @@
 |------------|----------|----------|----------|----------|
 | Ineff.  | 3.525     | 3.331    | 3.700    | 3.160     |
 | Cov.(%)  | 98.95     | 98.82    | 99.02    | 98.70     | 
+
+
+**Figure 1:** Inefficiency results of Conf-MWN by varying the number of meta data on CIFAR-10N dataset ("Worst" noise).
+
+<img src="https://github.com/yingliu0617/Conf-MWN/raw/main/meta_data_number.png" width="50%">
