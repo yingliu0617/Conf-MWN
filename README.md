@@ -1,6 +1,7 @@
 # Conf-MWN
 
 **Figure 1:** Inefficiency results of Conf-MWN by varying the number of meta data on CIFAR-10N dataset ("Worst" noise).
+
 ‹img src="https://github.com/yingliu0617/Conf-MWN/raw/main/meta_data_number.png" width="50%"> 
 
 **Table 1:** Results of Conf-MWN by varying temperature T on CIFAR-10 dataset with 20% symmetric noise.
@@ -28,4 +29,5 @@
 | Cov. (%)   | 98.95     | 98.82     | 99.02     | 98.70     | 
 
 **Table 4:** Examples of prediction sets obtained by CE and Conf-MWN (true label is shown in red). Models are trained on CIFAR-10 dataset with 40% symmetric noise.
+
 ‹img src="https://github.com/yingliu0617/Conf-MWN/raw/main/example.png" width="75%">
