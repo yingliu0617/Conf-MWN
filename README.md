@@ -31,3 +31,5 @@
 <img src="https://github.com/yingliu0617/Conf-MWN/raw/main/meta_data_number.png" width="50%">
 
 **Table 4:** Examples of prediction sets obtained by CE and Conf-MWN (true label is shown in red). Models are trained on CIFAR-10 dataset with 40% symmetric noise.
+
+<img src="https://github.com/yingliu0617/Conf-MWN/raw/main/example.png" width="55%">
