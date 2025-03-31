@@ -2,7 +2,7 @@
 
 **Figure 1:** Inefficiency results of Conf-MWN by varying the number of meta data on CIFAR-10N dataset ("Worst" noise).
 
-<img src="https://github.com/yingliu0617/Conf-MWN/raw/main/meta_data_number.png" width="50%">
+<img src="https://github.com/yingliu0617/Conf-MWN/raw/main/M.png" width="50%">
 
 **Table 1:** Results of Conf-MWN by varying temperature T on CIFAR-10 dataset with 20% symmetric noise.
 
